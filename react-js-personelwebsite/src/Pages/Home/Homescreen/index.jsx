@@ -13,9 +13,7 @@ export default function Home() {
       <MySkills />
       <AboutMe />
       <MyPortfolio />
-      <Testimonial />
-      <ContactMe />
-      <Footer />
+      
     </>
   );
 }
