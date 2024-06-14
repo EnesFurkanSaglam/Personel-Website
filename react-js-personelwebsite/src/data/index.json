@@ -4,25 +4,25 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am experienced in frontend development; I design user interfaces, create dynamic web pages, and manage user interactions."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am experienced in backend development; I work on server-side applications, database management, and API integrations."
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Articial Intelligence",
+        "description": "I am developing myself in the field of artificial intelligence, especially in areas such as natural language processing and image recognition."
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Data Science",
+        "description": "I am experienced in the field of data science; I work on data analysis, machine learning, and big data processing."
       }
     ],
     "portfolio": [
@@ -68,31 +68,6 @@
         "description": "Oceanic Resource Explorer is a comprehensive C-based software solution designed for companies engaged in natural resource exploration and extraction operations in marine environments. This project aims to optimize profit by accurately segmenting exploration areas into plots of the optimal number and size.",
         "link": "https://github.com/EnesFurkanSaglam/OceanicResourceExplorer"
       }
-    ],
-    "testimonial": [
-      {
-        "id": "1",
-        "count": "5",
-        "src": "./img/avatar-image.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Dianne Russel",
-        "author_designation": "Starbucks"
-      },
-      {
-        "id": "2",
-        "count": "5",
-        "src": "./img/avatar-image-1.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kristin Watson",
-        "author_designation": "Louis Vuitton"
-      },
-      {
-        "id": "3",
-        "count": "5",
-        "src": "./img/avatar-image-2.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kathryn Murphy",
-        "author_designation": "McDonald's"
-      }
     ]
+    
   }

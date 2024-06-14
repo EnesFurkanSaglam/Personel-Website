@@ -3,7 +3,7 @@ import data from "../../data/index.json";
 export default function MyPortfolio() {
   const projects = data?.portfolio || [];
 
-  // Fonksiyon, projeleri belirtilen grup sayısına göre gruplara ayırır
+  
   const chunkArray = (arr, chunkSize) => {
     const chunkedArray = [];
     for (let i = 0; i < arr.length; i += chunkSize) {
@@ -12,7 +12,7 @@ export default function MyPortfolio() {
     return chunkedArray;
   };
 
-  const chunkedProjects = chunkArray(projects, 3); // Projeleri 2'şerli gruplara ayır
+  const chunkedProjects = chunkArray(projects, 3); 
 
   return (
     <section className="portfolio--section" id="MyPortfolio">

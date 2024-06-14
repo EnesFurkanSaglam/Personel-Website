@@ -9,15 +9,11 @@ export default function AboutMe() {
             <p className="section--title">About</p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
+            From my childhood, I've been interested in computers, and I want to continue this interest academically and professionally.
+            I'm currently working on various projects. For example, I'm developing a JavaFX game and building a microcontroller-based game machine. Additionally, I'm developing optimization software for a company conducting natural resource exploration and extraction operations. Furthermore, to improve my knowledge of data structures and algorithms, I'm working on a project that analyzes user data through the Twitter API.
             </p>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+            I have experience in technologies such as Java, Spring Boot, Node.js, Flask, and MySQL, and I develop web and software projects using these technologies. I also aim to specialize in artificial intelligence in the future and plan to work on projects in this field as well.
             </p>
           </div>
         </div>
