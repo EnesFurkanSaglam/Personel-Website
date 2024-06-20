@@ -540,6 +540,7 @@ input[type="checkbox"] {
   gap: 16px;
   flex-shrink: 0;
   text-decoration: none;
+  font-size: 100px;
 }
 .divider {
   margin: 106px 0 42.67px;
@@ -666,6 +667,7 @@ input[type="checkbox"] {
   .footer--items > ul {
     padding: 0;
     align-items: center;
+    font-size: 24px;
   }
   .divider {
     margin: 20px;
