@@ -46,9 +46,7 @@ export default function MyPortfolio() {
           <div key={index} className="portfolio--section--group">
             {chunk.map((item, i) => (
               <div key={i} className="portfolio--section--card">
-                <div className="portfolio--section--img">
-                  <img src={item.src} alt="Placeholder" />
-                </div>
+
                 <div className="portfolio--section--card--content">
                   <div>
                     <h3 className="portfolio--section--title">{item.title}</h3>

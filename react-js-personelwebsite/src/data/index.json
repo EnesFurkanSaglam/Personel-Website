@@ -28,42 +28,36 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
         "title": "Patient Tracking and Management System (Node.js)",
         "description": "Creating a web application designed as a hospital management system. This application is a platform where patients can create records, schedule appointments with doctors, store medical reports, and manage health-related transactions.",
         "link": "https://github.com/EnesFurkanSaglam/PatientTrackingAndManagementSystemNode.js"
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
         "title": "Microcontroller Game Machine",
         "description": "A microcontroller-based game machine has been developed. The player will try to break the bricks on the OLED screen by reflecting a ball using a pallet controlled by a potentiometer.",
         "link": "https://github.com/EnesFurkanSaglam/MicrocontrollerGameMachine"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
         "title": "Autonomous Taxi Driver",
         "description": "An autonomously moving vehicle picks up all passengers on a map with various obstacles in the shortest time possible.",
         "link": "https://github.com/EnesFurkanSaglam/AutonomousTaxiDriver"
       },
       {
         "id": "4",
-        "src": "./img/placeholder-image-2.png",
         "title": "X(Twitter) Data Analysis and User Linking",
         "description": "It matches users with similar interests by analyzing data obtained from Twitter and performs actions based on the match.",
         "link": "https://github.com/EnesFurkanSaglam/X_TwitterDataAnalysisAndUserLinking"
       },
       {
         "id": "5",
-        "src": "./img/placeholder-image-2.png",
         "title": "Transportation Reservation System",
         "description": "This application allows passengers to get price information for their desired destination based on the mode of transportation and purchase tickets.",
         "link": "https://github.com/EnesFurkanSaglam/TransportationReservationSystem"
       },
       {
         "id": "6",
-        "src": "./img/placeholder-image-2.png",
         "title": "Oceanic Resource Explorer",
         "description": "Oceanic Resource Explorer is a comprehensive C-based software solution designed for companies engaged in natural resource exploration and extraction operations in marine environments. This project aims to optimize profit by accurately segmenting exploration areas into plots of the optimal number and size.",
         "link": "https://github.com/EnesFurkanSaglam/OceanicResourceExplorer"

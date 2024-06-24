@@ -11,7 +11,7 @@ export default function HeroSection() {
           </h1>
           <p className="hero--section-description">
           Hello! I am a computer engineering student at Kocaeli University. 
-            <br />  I have a great interest in programming, software development, web development, and artificial intelligence.
+              I have a great interest in programming, software development, web development, and artificial intelligence.
             
           </p>
         </div>
