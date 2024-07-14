@@ -1,4 +1,3 @@
-/* Global CSS */
 
 body {
   margin: 0;
@@ -80,30 +79,26 @@ p {
   color: var(--github);
   background-color: var(--white);
 }
-/* Global CSS Ends */
-/* Main Headings */
 
-/* Heading 1 */
 h1 {
   font-size: 56px;
   font-weight: 700;
   line-height: 67px;
 }
-/* Heading 2 */
+
 h2 {
   font-size: 48px;
   font-weight: 700;
   line-height: 58px;
 }
-/* Heading 3 */
+
 h2 {
   font-size: 24px;
   font-weight: 700;
   line-height: 34px;
 }
 
-/* Pragraphs text large medium small */
-/* Body 1 */
+
 .text-lg {
   color: var(--darkblue);
   font-size: 18px;
@@ -111,7 +106,7 @@ h2 {
   font-weight: 400;
   line-height: 27px;
 }
-/* Body 2 */
+
 .text-md {
   color: var(--darkblue);
   font-size: 16px;
@@ -119,7 +114,7 @@ h2 {
   font-weight: 400;
   line-height: 24px;
 }
-/* Body 3 */
+
 .text-sm {
   color: var(--black);
   font-size: 14px;
@@ -128,8 +123,7 @@ h2 {
   line-height: 21px;
 }
 
-/* Section Titles */
-/* Skills & About Me */
+
 .section--title {
   color: var(--heading-color);
   font-size: 21px;
@@ -140,16 +134,14 @@ h2 {
   display: flex;
   align-items: flex-start;
 }
-/* Portfolio, Testimonial & Contact Me */
+
 .sub--title {
   color: var(--heading-color);
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
 }
-/* Section Titles Ends */
 
-/* Navbar Style Start */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -172,7 +164,7 @@ h2 {
 .navbar--items ul > li > a {
   text-decoration: none;
 }
-/* Navbar Content */
+
 .navbar--content {
   color: var(--darkblue);
   font-size: 16px;
@@ -184,9 +176,7 @@ h2 {
 .navbar--active-content {
   color: var(--primary);
 }
-/* Navbar Styler Ends */
 
-/* Hero Section Style */
 .hero--section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -244,9 +234,7 @@ h2 {
 
 
 
-/* Hero Section Style Ends */
 
-/* Skills Section Style */
 .skills--section {
   display: flex;
   padding: 149.33px 85.33px;
@@ -315,9 +303,9 @@ h2 {
   font-weight: 400;
   line-height: 32px;
 }
-/* Skills Style Ends */
 
-/* About Us */
+
+
 .about--section {
   display: grid;
   padding: 133.3px 85.3px;
@@ -333,9 +321,7 @@ h2 {
   
 }
 
-/* About Us Ends */
 
-/* My Portfolio Starts */
 .portfolio--section {
   display: flex;
   padding: 112px 85px;
@@ -403,13 +389,9 @@ h2 {
 .portfolio--section--card:hover path {
   stroke: #006b6a;
 }
-/* Portfolio Ends */
 
 
 
-
-/* Footer Start */
-/* Footer Starts */
 .footer--container {
   display: flex;
   padding: 106.667px 85.333px;
@@ -464,7 +446,7 @@ h2 {
   line-height: 28px;
 }
 
-/* Responsive Screens */
+
 @media only screen and (max-width: 1800px) {
   .hero--section--title {
     font-size: 68px;
@@ -577,7 +559,7 @@ h2 {
   }
 }
 
-/* Hamburger menu  */
+
 
 .nav__hamburger {
   display: none;
@@ -653,4 +635,3 @@ h2 {
 
 
 
-/* Responsive Screens Ends*/
